@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/@eliftugba6655" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/eliftu%C4%9Fbaolcar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:eliftugbaolcar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://discord.gg/Eylif#7139" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 ### > Technologies and Tools I use for work
 <div style="display: inline_block"><br>
