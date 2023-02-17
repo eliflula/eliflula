@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliflula&layout=compact&theme=radical)
 
+<a href="https://www.youtube.com/@lofi_sleep" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/eliftu%C4%9Fbaolcar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href = "mailto:aliane.eamaral@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 ### > Technologies and Tools I use for work
 <div style="display: inline_block"><br>
   <img align="center" alt="elif-Js" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
