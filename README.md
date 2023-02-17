@@ -1,29 +1,22 @@
-### Hi there 👋
+  <img align="right" alt="Rafa-pic" height="400"  width="500" style="border-radius:50px;" src="https://i.pinimg.com/564x/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg">
 
 
-**eliflula/eliflula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on Data Science
+🌱 I’m currently learning Java and Python
 
 ![eliflula's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliflula&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliflula&layout=compact&theme=radical)
 
+# > How to reach me: 
 <a href="https://www.youtube.com/@eliftugba6655" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/eliftu%C4%9Fbaolcar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:eliftugbaolcar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/Eylif#7139" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
-### > Technologies and Tools I use for work
+# > Technologies and Tools I use for work
 <div style="display: inline_block"><br>
   <img align="center" alt="elif-Js" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img align="center" alt="elif-Js" height="30" width="80" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
@@ -42,9 +35,9 @@ Here are some ideas to get you started:
   </div>
 
   
-  
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+
+
 
 
 
