@@ -3,7 +3,7 @@
 # Hi there 👋
 
 🔭 I’m currently working on Data Science
-🌱 I’m currently learning Java and Python
+🌱 I’m currently learning Java and Python 
 🔭 I spend most of my time learning new information about my field and I enjoy it.
 
 
