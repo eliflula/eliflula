@@ -8,6 +8,7 @@
 ![eliflula's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliflula&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliflula&layout=compact&theme=radical)
+[![](https://visitcount.itsvg.in/api?id=izzuysl&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # > How to reach me: 
 <a href="https://www.youtube.com/@eliftugba6655" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
