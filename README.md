@@ -1,4 +1,4 @@
-  <img align="right" alt="Rafa-pic" height="300"  width="300" style="border-radius:50px;" src="https://i.pinimg.com/564x/e0/3e/db/e03edbe588d3866d539e5bbb35d9080c.jpg">
+  <img align="right" alt="Rafa-pic" height="300"  width="300" style="border-radius:50px;" 
 
 
 # Hi there 👋
