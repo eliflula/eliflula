@@ -1,4 +1,3 @@
-  <img align="right" alt="Rafa-pic" height="300"  width="300" style="border-radius:50px;" 
 
 
 # Hi there 👋
