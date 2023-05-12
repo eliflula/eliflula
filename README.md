@@ -4,6 +4,9 @@
 
 🔭 I’m currently working on Data Science
 🌱 I’m currently learning Java and Python
+🔭 I spend most of my time learning new information about my field and I enjoy it.
+
+
 [![](https://visitcount.itsvg.in/api?id=eliflula&label=Profile%20Views&color=10&icon=8&pretty=true)](https://visitcount.itsvg.in)
 ![eliflula's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliflula&show_icons=true&theme=radical)
 
