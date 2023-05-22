@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1500&lines=HELLO,+My+name+is+Elif+Tuğba;I'm+currently+working+on+Data+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eliflula&bg_color=171515&color=0afffb&line=e7c1e4&point=680d60&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eliflula&bg_color=0d1117&color=0afffb&line=e7c1e4&point=680d60&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 🔭 I’m currently working on Data Science <br>🌱 I’m currently learning artificial intelligence, deep learning and computer vision <br> 🌠 My motivation is "fake it till you make it"<br>🔭 I spend most of my time learning new information about my field and I enjoy it.
 
