@@ -2,7 +2,6 @@
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
  
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1500&lines=HELLO,+My+name+is+Elif+Tuğba;I'm+currently+working+on+Data+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eliflula&bg_color=0d1117&color=0afffb&line=e7c1e4&point=680d60&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
