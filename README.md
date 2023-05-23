@@ -6,7 +6,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eliflula&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-🔭 I’m currently working on Data Science <br>🌱 I’m currently learning artificial intelligence, deep learning and computer vision <br> 🌠 My motivation is "fake it till you make it"<br>🔭 I spend most of my time learning new information about my field and I enjoy it.
+🔭 I’m currently working on Data Science <br>🌱 I’m currently learning Artificial Intelligence, Deep Learning and Computer Vision <br> 🌠 My motivation is "fake it till you make it"<br>🔭 I spend most of my time learning new information
 
 
 ## 🌐 Socials:
