@@ -37,7 +37,7 @@
 [![](https://visitcount.itsvg.in/api?id=eliflula&icon=2&color=5)](https://visitcount.itsvg.in)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=eliflula&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eliflula&theme=radical&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliflula&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliflula&layout=demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
