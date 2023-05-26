@@ -1,10 +1,10 @@
 
-<img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=150% src="https://capsule-render.vercel.app/api?type=waving&color=52f3ff&height=120&section=header"/>
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1500&lines=HELLO,+My+name+is+Elif+Tuğba;I'm+currently+working+on+Data+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eliflula&bg_color=000000&color=16939c&line=52f3ff&point=7b0183&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eliflula&bg_color=000000&color=16939c&line=52f3ff&point=ff91a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 🔭 I’m currently working on Data Science <br>🌱 I’m currently learning Artificial Intelligence, Deep Learning and Computer Vision <br> 🌠 My motivation is "fake it till you make it"<br>🔭 I spend most of my time learning new information
 
 
@@ -39,4 +39,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliflula&layout=demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=52f3ff&height=120&section=footer"/>
